@@ -34,7 +34,7 @@ func echoLogo() {
           /_/                                  
 `
 	fmt.Printf("\u001B[1;34;m%s\u001B[0m\n", logoStr)
-	fmt.Printf("\u001B[1;32;m%s\u001B[0m\n", "author: @evilAdan0s  |  version: 0.0.1")
+	fmt.Printf("\u001B[1;32;m%s\u001B[0m\n", "author: @evilAdan0s  |  version: 0.1")
 }
 
 func echoHelp() {
