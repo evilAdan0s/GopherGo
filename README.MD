@@ -19,5 +19,9 @@ Linux、MacOS系统下需要给予可执行权限：
 chmod +x ./GopherGo
 ```
 
+# 截图
+
+![](./imgs/redis.png)
+
 # 致谢
 原作者[@tarunkant](https://github.com/tarunkant/Gopherus)
