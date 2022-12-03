@@ -1,5 +1,4 @@
-on:
-  push: 
+on: push
 
 name: Build Release
 jobs:
