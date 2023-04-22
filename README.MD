@@ -23,5 +23,9 @@ chmod +x ./GopherGo
 
 ![](./imgs/redis.png)
 
+# 更新日志
+- v0.2：修复错误
+- v0.1：完成redis攻击模块
+
 # 致谢
 原作者[@tarunkant](https://github.com/tarunkant/Gopherus)
